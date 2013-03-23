@@ -1,0 +1,4 @@
+name: CrosshairCommand
+version: 1.0
+description: Only do command when players is in sight
+main: me.zeus.CrosshairCommand.Main
